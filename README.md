@@ -1,5 +1,11 @@
 # regras-udev
 
+
+Mais hardware pode ser adicionados a regra, ser o kernel tiver suporte a eles. 
+
+No Issue os usuários contribuem, reportam os problemas/bugs encontrados. Ficando assim mais fácil a correção do problema e a obtenção das informações para simulação dos problemas.
+
+
 Regras para dispositivos USBs
 
 
