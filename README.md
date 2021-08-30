@@ -1,4 +1,4 @@
-# regras-udev
+# Regras udev
 
 
 Mais hardware pode ser adicionados a regra, ser o kernel tiver suporte a eles. 
@@ -45,3 +45,7 @@ Bus 002 Device 006: ID 1221:3234 Unknown manufacturer Disk (Thumb drive)
 - Webcam USB da C3Tech
 
   Bus 008 Device 005: ID 093a:2620 Pixart Imaging, Inc.
+
+...
+
+Leia o arquivo: /usr/doc/regras-udev-?/leia-me.txt
