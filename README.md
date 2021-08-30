@@ -8,6 +8,21 @@ Mais hardware pode ser adicionados a regra, ser o kernel tiver suporte a eles.
 
 No Issue os usuários contribuem, reportam os problemas/bugs encontrados. Ficando assim mais fácil a correção do problema e a obtenção das informações para simulação dos problemas.
 
+----------------------------------------------------------------------------
+
+Padrão para criar novas regras:
+
+1- Fornecer a saída do comando lsusb.
+
+# lsusb
+Bus 008 Device 005: ID 093a:2620 Pixart Imaging, Inc.
+
+2- Informa qual o programa que abre esse dispositivo
+
+guvcview
+
+----------------------------------------------------------------------------
+
 
 Seria algo de Plug and Play para Linux
 
