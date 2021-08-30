@@ -1,6 +1,4 @@
 # regras-udev
-Criar regras udev para dispositivos USB
-
 
 Regras para dispositivos USBs
 
